@@ -1,0 +1,6 @@
+{
+  "name": "Arun Medical Hall",
+  "description": "Premium pharmacy and healthcare store in Belaganj, Bihar. Quick prescription fulfillment, healthcare devices, and medicine stock availability checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

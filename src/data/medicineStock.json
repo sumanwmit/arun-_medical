@@ -1,0 +1,172 @@
+[
+  {
+    "id": "med-1",
+    "name": "Dolo 650mg",
+    "brand": "Micro Labs",
+    "mrp": 34.00,
+    "availableQuantity": 150,
+    "expiry": "2027-11",
+    "status": "Available",
+    "category": "Pain & Fever"
+  },
+  {
+    "id": "med-2",
+    "name": "Calpol 500mg",
+    "brand": "GSK",
+    "mrp": 16.50,
+    "availableQuantity": 200,
+    "expiry": "2027-08",
+    "status": "Available",
+    "category": "Pain & Fever"
+  },
+  {
+    "id": "med-3",
+    "name": "Pan-D",
+    "brand": "Alkem Laboratories",
+    "mrp": 199.00,
+    "availableQuantity": 45,
+    "expiry": "2027-05",
+    "status": "Available",
+    "category": "Gas & Acidity"
+  },
+  {
+    "id": "med-4",
+    "name": "Azee 500mg (Azithromycin)",
+    "brand": "Cipla",
+    "mrp": 119.50,
+    "availableQuantity": 80,
+    "expiry": "2027-09",
+    "status": "Available",
+    "category": "Antibiotic"
+  },
+  {
+    "id": "med-5",
+    "name": "Montair LC",
+    "brand": "Cipla",
+    "mrp": 232.00,
+    "availableQuantity": 12,
+    "expiry": "2027-04",
+    "status": "Limited Stock",
+    "category": "Allergy & Cold"
+  },
+  {
+    "id": "med-6",
+    "name": "Glycomet 500mg (Metformin)",
+    "brand": "USV Ltd",
+    "mrp": 24.50,
+    "availableQuantity": 300,
+    "expiry": "2028-02",
+    "status": "Available",
+    "category": "Diabetes Care"
+  },
+  {
+    "id": "med-7",
+    "name": "Pan 40mg",
+    "brand": "Alkem Laboratories",
+    "mrp": 145.00,
+    "availableQuantity": 0,
+    "expiry": "2026-12",
+    "status": "Out of Stock",
+    "category": "Gas & Acidity"
+  },
+  {
+    "id": "med-8",
+    "name": "Lipvas 10mg (Atorvastatin)",
+    "brand": "Cipla",
+    "mrp": 98.00,
+    "availableQuantity": 60,
+    "expiry": "2027-03",
+    "status": "Available",
+    "category": "Heart Health"
+  },
+  {
+    "id": "med-9",
+    "name": "Alerid 10mg (Cetirizine)",
+    "brand": "Cipla",
+    "mrp": 18.00,
+    "availableQuantity": 120,
+    "expiry": "2027-10",
+    "status": "Available",
+    "category": "Allergy & Cold"
+  },
+  {
+    "id": "med-10",
+    "name": "Electral Powder ORS",
+    "brand": "FDC Ltd",
+    "mrp": 22.00,
+    "availableQuantity": 500,
+    "expiry": "2028-05",
+    "status": "Available",
+    "category": "Wellness & Dehydration"
+  },
+  {
+    "id": "med-11",
+    "name": "Zincovit Tablets",
+    "brand": "Apex Labs",
+    "mrp": 110.00,
+    "availableQuantity": 140,
+    "expiry": "2027-12",
+    "status": "Available",
+    "category": "Supplements"
+  },
+  {
+    "id": "med-12",
+    "name": "Volini Gel 30g",
+    "brand": "Sun Pharma",
+    "mrp": 135.00,
+    "availableQuantity": 8,
+    "expiry": "2027-06",
+    "status": "Limited Stock",
+    "category": "Pain Relief"
+  },
+  {
+    "id": "med-13",
+    "name": "Humalog Mix 25 Insulin",
+    "brand": "Eli Lilly",
+    "mrp": 840.00,
+    "availableQuantity": 15,
+    "expiry": "2027-01",
+    "status": "Available",
+    "category": "Diabetes Care"
+  },
+  {
+    "id": "med-14",
+    "name": "Becosules Capsules",
+    "brand": "Pfizer",
+    "mrp": 50.00,
+    "availableQuantity": 0,
+    "expiry": "2026-10",
+    "status": "Out of Stock",
+    "category": "Supplements"
+  },
+  {
+    "id": "med-15",
+    "name": "Augmentin 625 DUO",
+    "brand": "GSK",
+    "mrp": 223.50,
+    "availableQuantity": 95,
+    "expiry": "2027-07",
+    "status": "Available",
+    "category": "Antibiotic"
+  },
+  {
+    "id": "med-16",
+    "name": "Telma 40mg",
+    "brand": "Glenmark",
+    "mrp": 116.00,
+    "availableQuantity": 110,
+    "expiry": "2027-09",
+    "status": "Available",
+    "category": "Heart Health"
+  },
+  {
+    "id": "med-17",
+    "name": "Omee Capsule",
+    "brand": "Alkem Laboratories",
+    "mrp": 59.00,
+    "availableQuantity": 15,
+    "expiry": "2027-06",
+    "status": "Limited Stock",
+    "category": "Gas & Acidity"
+  }
+]
